@@ -1,10 +1,10 @@
 # Presentación
 
-## Student name: John Cena
+## Nombre del estudiante: John Cena
 
-Hello, I'm John Cena, professional wrestler and actor, with a total of 25 titles won. After proving that I can handle anything, today I will start programming in Wollok.
+Hola, soy John Cena, luchador profesional y actor, con un total de 25 títulos ganados. Después de demostrar que puedo manejar cualquier cosa, hoy comenzaré a programar en Wollok.
 
-My picture:
+Mi foto:
 
 ![d](https://images.mubicdn.net/images/cast_member/34836/cache-597973-1602713164/image-w856.jpg?size=800x)
 
